@@ -1,0 +1,4 @@
+flask-moment
+flask-wtf
+jsonify
+flask-cors
